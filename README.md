@@ -4,7 +4,6 @@ I am a rising Junior in CS eager to learn more about the wide variety of concept
 
 Skills: Python / Java/ C++/ HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 
